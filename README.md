@@ -8,6 +8,9 @@ Find the right combination of planets to deviate your course and form a path in 
 
 **Check out the Preview video !**
 
+<img src="./preview_ScepticalGo.gif" width="300">
+
+
 ---
 
 <img width="777" alt="scepticalGoFrames" src="https://github.com/user-attachments/assets/41995203-cb56-4a65-8fb5-d2871ae37cc8">
