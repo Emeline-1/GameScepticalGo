@@ -8,7 +8,7 @@ Find the right combination of planets to deviate your course and form a path in 
 
 **Check out the Preview video !**
 
-<img src="./preview_ScepticalGo.gif" width="300">
+<img src="./preview_ScepticalGo_highQuality.gif" width="300">
 
 
 ---
